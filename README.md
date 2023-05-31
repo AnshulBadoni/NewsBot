@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## api_key
+
+In this project you first have to enter api key in App.js. You can get Api key from newsapi.org
+example: apikey = "8d86448d468468ew846681ew"
+
 ## Available Scripts
 
 In the project directory, you can run:
